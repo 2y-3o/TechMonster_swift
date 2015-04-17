@@ -121,6 +121,10 @@ class ViewController: UIViewController {
                     self.dismissViewControllerAnimated(true, completion: nil)
             }))
         
+        
+        
+        
+        
     }
     
     //MARK: Cure
