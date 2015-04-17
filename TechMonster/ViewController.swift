@@ -120,6 +120,7 @@ class ViewController: UIViewController {
                 title: "OK", style: .Default, handler: { action in
                     self.dismissViewControllerAnimated(true, completion: nil)
             }))
+        
     }
     
     //MARK: Cure
